@@ -115,3 +115,7 @@ app.listen(PORT, (err) => {
   if (err) throw err;
   console.log(`Running ${PORT}`);
 });
+//generate randomm id
+function id() {
+  return "_" + Math.random().toString(36).substr(2, 9);
+}
