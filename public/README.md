@@ -2,10 +2,14 @@
 
 # Instructions
 
+The application is made for learning management. There is a crud functionality to manage lessons included in the web application.
+The website has a single page with a basic UI to implement the CRUD. There is an input form to include a module, a list to display all the items and a delete button
+to remove an item.
+
 # GIT
 
 1. Download the source code
-   git clone https://github.com/Islom27/todolist.git
+   git clone https://github.com/WiutStu/oscorp-webtech.git
 
 # Install deps
 
@@ -26,8 +30,8 @@ node app
 
 # Link to the github repo
 
-https://github.com/Islom27/todolist.git
+https://github.com/WiutStu/oscorp-webtech.git
 
 # Link to Glitch project
 
-https://nebulous-peat-saver.glitch.me/
+https://glitch.com/edit/#!/galvanized-abaft-output
